@@ -1,13 +1,12 @@
-### Hi there 👋 
 
-I am really glad to be part of this community. I would like to start my career as a software developer 💻.
 
-I am currently studying in the seventh semester of *System Engineering at Mariano Galvez University*. Hopefully, I will graduate by 2026 👨‍🎓.
+### Hi there 👋
+I'm excited to be part of this amazing community! I'm currently working towards starting my career as an *Automation Testing Developer* 🤖.
 
-I am currently working on learning *Python with Django*. The developer at my workplace uses Django to code all the applications that the company needs. We are really good friends, that's why I have become involved with that technology. It is really easy to start making projects and applications with Django. Additionally, I am working on a project with Django and React for college; it is about a restaurant ordering platform, which could be my biggest project.
+I'm in my ninth semester of *Systems Engineering at Mariano Gálvez University* and expect to graduate in **2026** 👨‍🎓.
 
-Now, I am starting a course at San Carlos University. The course is about AWS. It's amazing what is possible with the cloud. 🎈
+I currently work at *Banco Industrial* in Guatemala City, where the Automation Testing team uses Selenium. I am actively learning this technology so I can join the team in the coming months.
 
-I am able to collaborate on any project!
+Feel free to reach out—I'm always open to collaborating on interesting projects!
 
 ***See you soon*** 😎
